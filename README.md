@@ -1,4 +1,4 @@
-# flashcard-generator
+# Flashcard Generator
 
 # What is Flashcard Generator?
 Flashcard Generator is a node module which uses inquirer to create flashcards.
